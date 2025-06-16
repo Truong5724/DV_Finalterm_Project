@@ -1,0 +1,51 @@
+1. TỔNG QUAN
+-----------
+- Tên bộ dữ liệu: Chất lượng không khí Việt Nam năm 2021
+- Nguồn dữ liệu: AQICN (Air Quality Index)
+- Link về dataset: https://data.opendevelopmentcambodia.net/en/dataset/dataset-on-air-quality-in-vietnam-in-2021/resource/6afcacb0-2e4e-41e0-84f3-d0f632b40ea5
+- Giấy phép: Creative Commons Attribution Share-Alike
+- Số lượng mẫu: 2101 dòng
+- Số lượng thuộc tính: 20 cột
+
+2. CÁC THUỘC TÍNH
+----------------
+1. Mã trạm: Mã số định danh trạm đo
+2. Chỉ số AQI: Chỉ số chất lượng không khí
+3. Tên trạm: Tên và vị trí trạm đo
+4. Url: Đường dẫn đến nguồn dữ liệu
+5. Chất ô nhiễm chủ đạo: Loại chất ô nhiễm chính (pm25, aqi)
+6. CO: Nồng độ Carbon Monoxide
+7. Sương: Độ sương mù
+8. Độ ẩm: Độ ẩm không khí (%)
+9. NO2: Nồng độ Nitrogen Dioxide
+10. O3: Nồng độ Ozone
+11. Áp suất: Áp suất không khí
+12. Bụi PM10: Nồng độ bụi PM10
+13. Bụi PM2.5: Nồng độ bụi PM2.5
+14. SO2: Nồng độ Sulfur Dioxide
+15. Nhiệt độ: Nhiệt độ không khí (°C)
+16. Tốc độ gió: Tốc độ gió (m/s)
+17. Thời gian cập nhật: Thời điểm đo
+18. Múi giờ: Múi giờ địa phương
+19. Latitude: Vĩ độ
+20. Longitude: Kinh độ
+
+3. ĐẶC ĐIỂM DỮ LIỆU
+-----------------
+- Dữ liệu được thu thập từ nhiều trạm đo khác nhau trên toàn quốc
+- Bao gồm các chỉ số chất lượng không khí chính như AQI, PM2.5, PM10
+- Có thông tin về điều kiện thời tiết (nhiệt độ, độ ẩm, tốc độ gió)
+- Dữ liệu được cập nhật theo giờ
+- Có thông tin vị trí địa lý chính xác của các trạm đo
+
+4. CÁC GIÁ TRỊ ĐẶC BIỆT
+----------------------
+- Giá trị '-': Không có dữ liệu
+- Giá trị 0: Có thể là giá trị thực hoặc không có dữ liệu
+
+5. PHẠM VI DỮ LIỆU
+-----------------
+- Thời gian: Năm 2021
+- Địa điểm: Các tỉnh/thành phố lớn tại Việt Nam
+- Các trạm đo chính: Hà Nội, TP.HCM, và các tỉnh thành khác
+
