@@ -1,0 +1,21 @@
+Nhận xét các biểu đồ trong Dashboard "Chất lượng không khí tại Việt Nam năm 2021":
+
+1. Biểu đồ "Chỉ số AQI trung bình theo từng tháng":
+- Chỉ số AQI trung bình cao nhất vào tháng 1 (trên 120), sau đó giảm mạnh vào tháng 2, dao động quanh mức 50–60 trong các tháng 5 đến 9.
+- Cuối năm (tháng 10–11), chỉ số AQI có xu hướng tăng nhẹ trở lại.
+=> Chất lượng không khí đầu năm kém nhất, giữa năm là thời điểm không khí tốt hơn.
+
+2. Biểu đồ "Phân bố chỉ số AQI":
+- Chỉ số AQI trung bình trong năm là 66.64, nằm trong khoảng "Trung bình".
+- Giá trị AQI cao nhất được ghi nhận là 340, cho thấy có thời điểm ô nhiễm rất nghiêm trọng.
+=> Mặc dù trung bình AQI ổn, vẫn có những đỉnh điểm ô nhiễm cần lưu ý.
+
+3. Biểu đồ "Phân bố nồng độ bụi mịn PM2.5 và PM10":
+- Nồng độ PM2.5 cao hơn đáng kể so với PM10 (khoảng 65 µg/m³ vs 45 µg/m³).
+=> PM2.5 là thành phần chính gây ô nhiễm không khí, ảnh hưởng sâu đến sức khỏe.
+
+4. Biểu đồ "Phân bố nồng độ CO, NO2, SO2 và O3":
+- NO2 chiếm tỷ lệ lớn nhất (32.53%).
+- SO2 và CO lần lượt chiếm 26.31% và 20.64%.
+- O3 chiếm ít nhất (20.52%).
+=> NO2 là khí ô nhiễm chiếm tỉ lệ cao nhất, cần kiểm soát khí này một cách có hiệu quả hơn.
