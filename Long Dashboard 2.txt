@@ -1,0 +1,31 @@
+Nhận xét các biểu đồ trong Dashboard "Chất lượng không khí tại Việt Nam năm 2021":
+
+1. Biểu đồ "Chỉ số Bụi mịn trung bình theo từng tháng":
+
+- Chỉ số Bụi mịn PM2.5 trung bình cao nhất vào tháng 1 (trên 120), sau đó giảm mạnh vào tháng 2, dao động quanh mức 50–60 trong các tháng 5 đến 9.
+- Chỉ số Bụi mịn PM10 trung bình cao nhất vào tháng 1 (trên 75), sau đó giảm mạnh vào tháng 2, dao động quanh mức 30-50 trong các tháng 5 đến 9.
+- Cuối năm (tháng 10–11), chỉ số Bụi mịn PM2.5 và PM10 có xu hướng tăng nhẹ trở lại.
+=> Chất lượng không khí đầu năm kém nhất, giữa năm là thời điểm không khí tốt hơn.
+
+2. Biểu đồ "Chỉ số khí độc theo từng tháng":
+- Khí CO có nồng độ cao nhất vào tháng 3 và giảm dần về mức ổn định vào tháng 7,8 sau đó tăng nhẹ vào tháng 10, 11.
+- Khí O3 duy trì quanh mức ổn định 10%, không có sự thay đổi đáng kể nào trong năm.
+- Khí SO2 ổn định ở những tháng đầu năm ở 12% và tăng mạnh vào dịp cuối năm 25%
+- Khí NO2 có nồng độ cao nhất vào các tháng đầu năm, quanh mức 20% và giảm dần vào tháng 6, 7, tăng mạnh vào dịp cuối năm.
+=> Nồng độ khí độc tăng cao vào tháng 10,11 và kéo dài đến tháng 4 năm sau, các tháng còn lại không có sự biến động quá lớn.
+
+3. Biểu đồ "Chỉ số AQI theo Nhiệt độ và độ ẩm":
+- Nhiệt độ và độ ẩm đều có mối tương quan chặt chẽ đến chỉ số AQI, nhiệt độ cao và độ ẩm cao khiến chỉ số AQI tăng mạnh
+
+4. Biểu đồ "Decomposition Tree bụi mịn":
+- Sử dụng AI tự động phân tích Bụi mịn theo các chỉ số:
+- Vào tháng 1, trung bình chỉ số bụi mịn PM2.5 đạt 124.70, Nếu độ ẩm trong tháng 1 đạt 49 thì bụi mịn có thể đạt 141.97
+
+5. Biểu đồ "Q&A":
+- Sử dụng AI tự động phân tích dựa theo câu hỏi của người dùng.
+
+6. Biểu đồ "Key Influencers theo AQI"
+- Sử dụng AI phân tích mức ảnh hưởng của các chỉ số với AQI
+- Tháng 1 -> AQI trung bình tăng 69.55
+- Trung bình độ ẩm từ 76.7 đến 77 -> AQI trung bình tăng 62.31. 
+
